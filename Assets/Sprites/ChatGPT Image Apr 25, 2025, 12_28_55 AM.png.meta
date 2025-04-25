@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d5a4a62ec54c3594781389c815cafd6a
+guid: 86c1b8a52b655b34fa23241631bd7ed9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6617477779067093798
-    second: Shade_standing_idle_0
+      213: -461907845118125626
+    second: ChatGPT Image Apr 25, 2025, 12_28_55 AM_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,12 +51,12 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 220
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: 0
+  spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -113,43 +113,33 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shade_standing_idle_0
+      name: ChatGPT Image Apr 25, 2025, 12_28_55 AM_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 280
-        height: 770
+        y: 8
+        width: 1024
+        height: 1523
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: adc3aa5550ff924a0800000000000000
-      internalID: -6617477779067093798
+      spriteID: 6c994cc1349f699f0800000000000000
+      internalID: -461907845118125626
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
     customData: 
-    physicsShape:
-    - - {x: 138, y: 179}
-      - {x: 73, y: 385}
-      - {x: -55, y: 385}
-      - {x: -140, y: 202}
-      - {x: -138.91011, y: 61.404053}
-      - {x: -121, y: -54}
-      - {x: -112, y: -167}
-      - {x: -119, y: -300}
-      - {x: -119, y: -384}
-      - {x: 140, y: -384}
+    physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -158,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Shade_standing_idle_0: -6617477779067093798
+      ChatGPT Image Apr 25, 2025, 12_28_55 AM_0: -461907845118125626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
