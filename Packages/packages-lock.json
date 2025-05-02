@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "ca.tim-cstj.export-project-to-zip": {
+      "version": "https://github.com/JonathanTremblay/UnityExportToZip.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "aab2172f491325d36aa2825f8d7ef7b5767aba66"
+    },
     "com.justinpbarnett.unity-mcp": {
       "version": "https://github.com/justinpbarnett/unity-mcp.git?path=/UnityMcpBridge",
       "depth": 0,
